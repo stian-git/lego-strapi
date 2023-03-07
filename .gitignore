@@ -107,6 +107,10 @@ coverage
 ############################
 
 .env
+.env.develop
+.env.example
+.editorconfig
+
 license.txt
 exports
 *.cache
