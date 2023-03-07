@@ -34,6 +34,15 @@
       "allowedTypes": [
         "images"
       ]
+    },
+    "stock": {
+      "type": "integer"
+    },
+    "productnumber": {
+      "type": "string"
+    },
+    "isProductionStopped": {
+      "type": "boolean"
     }
   }
 }
