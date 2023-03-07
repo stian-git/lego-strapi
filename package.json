@@ -14,6 +14,7 @@
   "dependencies": {
     "@strapi/plugin-i18n": "4.7.1",
     "@strapi/plugin-users-permissions": "4.7.1",
+    "@strapi/provider-upload-cloudinary": "^4.7.1",
     "@strapi/strapi": "4.7.1",
     "better-sqlite3": "8.0.1",
     "cross-env": "^7.0.3",
@@ -27,7 +28,7 @@
     "uuid": "8b85a453-a7e2-45c2-a533-31cb19b5b1e3"
   },
   "engines": {
-    "node": "18.14.2",
+    "node": "16.14.2",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
